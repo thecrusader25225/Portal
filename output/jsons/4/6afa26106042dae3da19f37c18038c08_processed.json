@@ -1,0 +1,72 @@
+[
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.6063862442970276,
+        "bbox": [
+            303,
+            508,
+            334,
+            551
+        ]
+    },
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.5673927664756775,
+        "bbox": [
+            344,
+            603,
+            379,
+            640
+        ]
+    },
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.549511730670929,
+        "bbox": [
+            304,
+            310,
+            334,
+            351
+        ]
+    },
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.5192232728004456,
+        "bbox": [
+            351,
+            164,
+            379,
+            200
+        ]
+    },
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.4950794279575348,
+        "bbox": [
+            310,
+            253,
+            339,
+            291
+        ]
+    },
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.4942622482776642,
+        "bbox": [
+            323,
+            390,
+            359,
+            435
+        ]
+    },
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.35057735443115234,
+        "bbox": [
+            348,
+            18,
+            368,
+            45
+        ]
+    }
+]

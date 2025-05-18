@@ -1,0 +1,32 @@
+[
+    {
+        "label": "broken disc",
+        "confidence": 0.7859572768211365,
+        "bbox": [
+            284,
+            397,
+            346,
+            454
+        ]
+    },
+    {
+        "label": "broken disc",
+        "confidence": 0.6665689945220947,
+        "bbox": [
+            291,
+            325,
+            346,
+            382
+        ]
+    },
+    {
+        "label": "broken disc",
+        "confidence": 0.5639206171035767,
+        "bbox": [
+            316,
+            216,
+            356,
+            275
+        ]
+    }
+]

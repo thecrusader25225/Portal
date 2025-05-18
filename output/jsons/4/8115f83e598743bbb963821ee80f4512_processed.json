@@ -1,0 +1,42 @@
+[
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.5879597663879395,
+        "bbox": [
+            441,
+            274,
+            476,
+            323
+        ]
+    },
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.5843692421913147,
+        "bbox": [
+            283,
+            291,
+            308,
+            327
+        ]
+    },
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.5579427480697632,
+        "bbox": [
+            171,
+            305,
+            195,
+            341
+        ]
+    },
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.25583553314208984,
+        "bbox": [
+            220,
+            351,
+            245,
+            387
+        ]
+    }
+]

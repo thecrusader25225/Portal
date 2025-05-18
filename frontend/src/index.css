@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.h-bar {
+    @apply w-full h-1 my-4 rounded-3xl bg-white
+}
+
+.button {
+    @apply hover:bg-white hover:bg-opacity-[calc(0.04)] rounded-full p-4 hover:duration-300
+}
+
+.basic {
+    @apply bg-white bg-opacity-[calc(0.04)] rounded-3xl
+}
+
+.popOut {
+    @apply transition-transform ease-linear duration-200 hover:scale-105 transform
+}
+
+/* For Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: white transparent;
+    /* thumb color | track color */
+}
+
+/* For Chrome, Edge, Safari */
+*::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+*::-webkit-scrollbar-track {
+    background: transparent;
+    /* remove the track background */
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: black;
+    /*  thumb */
+    border-radius: 10px;
+}

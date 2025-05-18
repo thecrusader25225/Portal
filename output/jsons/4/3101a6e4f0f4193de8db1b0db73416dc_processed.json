@@ -1,0 +1,12 @@
+[
+    {
+        "label": "pollution-flashover",
+        "confidence": 0.6049556732177734,
+        "bbox": [
+            269,
+            182,
+            308,
+            233
+        ]
+    }
+]

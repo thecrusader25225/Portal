@@ -1,0 +1,32 @@
+[
+    {
+        "label": "Glassloss",
+        "confidence": 0.8771166205406189,
+        "bbox": [
+            108,
+            379,
+            492,
+            620
+        ]
+    },
+    {
+        "label": "Glassloss",
+        "confidence": 0.5386674404144287,
+        "bbox": [
+            51,
+            4,
+            532,
+            180
+        ]
+    },
+    {
+        "label": "Glassloss",
+        "confidence": 0.354922354221344,
+        "bbox": [
+            48,
+            361,
+            497,
+            584
+        ]
+    }
+]
